@@ -1,8 +1,8 @@
 # Task 0
 Write a program to help a local restaurant automate its breakfast billing system. The program should do the following:
-a. Show the customer the different breakfast items offered by the restaurant
-b. Allow the customer to select more than one item from the menu.
-c. Calculate the bill
+* Show the customer the different breakfast items offered by the restaurant
+* Allow the customer to select more than one item from the menu.
+* Calculate the bill
 
 Assume the restaurant offers the following breakfast items:
 Plain Egg.............1.45
