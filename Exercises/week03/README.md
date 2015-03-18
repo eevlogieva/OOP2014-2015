@@ -23,8 +23,8 @@
 * размер (цяло число)
 
 Да се дефинират следните функции за обработка на масив от дрехи:
-* ```getAllByColor(piece_of_clothing*, char*)``` отпечатва всички дрехи с подадения като втори аргумент цвят
-* ```getAllByType(piece_of_clothing*, char*)``` отпечатва всички дрехи от подадения вид
-* ```getAllCheaperThan(piece_of_clothing*, double)``` отпечатва всички по-евтини дрехи
-* ```getAllMoreExpensiveThan(piece_of_clothing*, double)``` oтпечатва всички по-скъпи дрехи
-* ```sortByPriceHighToLow(piece_of_clothing**)``` сортира масива (не само да го отпечата в сортиран вид)
+* ```getAllByColor(piece_of_clothing*, int, char*)``` отпечатва всички дрехи с подадения като втори аргумент цвят
+* ```getAllByType(piece_of_clothing*, int, char*)``` отпечатва всички дрехи от подадения вид
+* ```getAllCheaperThan(piece_of_clothing*, int, double)``` отпечатва всички по-евтини дрехи
+* ```getAllMoreExpensiveThan(piece_of_clothing*, int, double)``` oтпечатва всички по-скъпи дрехи
+* ```sortByPriceHighToLow(piece_of_clothing*, int)``` сортира масива (не само да го отпечата в сортиран вид)
